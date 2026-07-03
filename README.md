@@ -19,7 +19,6 @@ repo/
 │   ├── fig_10_table_S1.py      # requires output of helper_fig_10.py (see below)
 │   └── fig_11.py
 ├── environment.yml             # conda environment with all dependencies
-├── DATA_PATHS_REFERENCE.md     # full list of data files referenced by each script
 └── README.md
 ```
 
