@@ -108,8 +108,7 @@ for region in regions:
 
 
 
-### sum of data, if you do the print of sum you can get table S1
-
+### sum of data 
 sum_data = {}
 
 for region in regions:
