@@ -1,0 +1,12 @@
+
+dependencies:
+  - python=3.11
+  - numpy
+  - xarray
+  - xesmf
+  - matplotlib
+  - cartopy
+  - scipy
+  - tqdm
+  - netcdf4
+  - pip
