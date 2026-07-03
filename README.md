@@ -30,19 +30,10 @@ The scripts reference NetCDF files from CMIP6, IPSL-CM6A-LR, the flux-adjusted I
 simulation, and observational/reanalysis products (ERA5, ORAS5, HadISST, ERSSTv5, COBE2).
 
 Paths in these scripts currently reflect the internal file structure of the authors'
-computing cluster at the time of analysis (see `DATA_PATHS_REFERENCE.md` for the complete,
-auto-generated list). 
+computing cluster at the time of analysis 
 
-Once the processed/derived data are archived (Zenodo, see Data Availability below), this
-README and the scripts will be updated to point to the archived filenames.
+Once the processed data are archived, this README and the scripts will be updated to point to the archived filenames.
 
-
-## Data availability
-
-The code in this repository is released alongside the manuscript. Processed data supporting
-the findings will be archived with a permanent DOI (Zenodo) upon acceptance; in the meantime,
-data are available from the authors upon reasonable request. See the manuscript's Data
-Availability Statement for full details.
 
 ## Citation
 
